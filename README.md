@@ -1,2 +1,2 @@
 # Amiru-demo
-This is first code
+This is first Git Repository
