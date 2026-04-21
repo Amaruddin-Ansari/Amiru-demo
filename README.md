@@ -1,2 +1,2 @@
 # Amiru-demo
-This is first Git Repository Auther - kaif (fazilnagar)
+This is first Git Repository Author - kaif (fazilnagar)
